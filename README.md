@@ -10,6 +10,8 @@ BRIEF to the assignment:
   8. Filter out the first week of February, and group by this filter by day. Determine the mean power consumption for each day
   9. Find the correlation between global active power and sub-metering values. 
  
-
+The dataset hasn't been uploaded due to a large file size. 
+Src:  https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
+File: household_power_consumption.txt(used it as a csv)
 
 _Help taken from: Groq(Playground)_
